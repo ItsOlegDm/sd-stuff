@@ -1,0 +1,29 @@
+{
+  "unversionedId": "usage/config",
+  "id": "usage/config",
+  "title": "txt2img",
+  "description": "Генерация картинок по текстовому описанию",
+  "source": "@site/docs/usage/config.md",
+  "sourceDirName": "usage",
+  "slug": "/usage/config",
+  "permalink": "/docs/usage/config",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "txt2img",
+    "description": "Генерация картинок по текстовому описанию",
+    "hide_table_of_contents": false,
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Важно знать перед началом",
+    "permalink": "/docs/usage/important"
+  },
+  "next": {
+    "title": "img2img",
+    "permalink": "/docs/usage/img2img"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Дополнения",
+  "description": "Embeddings, LoRA, Hypernetworks",
+  "slug": "additional/index",
+  "permalink": "/docs/additional/index",
+  "navigation": {
+    "previous": {
+      "title": "Расширения",
+      "permalink": "/docs/usage/extensions"
+    },
+    "next": {
+      "title": "Embeddings",
+      "permalink": "/docs/additional/embeddings"
+    }
+  }
+}

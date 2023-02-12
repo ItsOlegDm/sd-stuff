@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/en/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/en/docs",
+          "mainDocId": "installation/colab",
+          "docs": [
+            {
+              "id": "additional/embeddings",
+              "path": "/en/docs/additional/embeddings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "additional/hypernetworks",
+              "path": "/en/docs/additional/hypernetworks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "additional/lora",
+              "path": "/en/docs/additional/lora",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "installation/colab",
+              "path": "/en/docs/installation/colab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "installation/local",
+              "path": "/en/docs/installation/local",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "usage/extensions",
+              "path": "/en/docs/usage/extensions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "usage/extras",
+              "path": "/en/docs/usage/extras",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "usage/img2img",
+              "path": "/en/docs/usage/img2img",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "usage/important",
+              "path": "/en/docs/usage/important",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "usage/txt2img",
+              "path": "/en/docs/usage/txt2img",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "installation/index",
+              "path": "/en/docs/installation/index",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "usage/index",
+              "path": "/en/docs/usage/index",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "additional/index",
+              "path": "/en/docs/additional/index",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/en/docs/installation/index",
+                "label": "Установка и настройка WebUi"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

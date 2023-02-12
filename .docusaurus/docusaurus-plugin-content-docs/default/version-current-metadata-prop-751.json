@@ -1,0 +1,163 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "Установка и настройка WebUi",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Запуск Colab",
+            "href": "/en/docs/installation/colab",
+            "docId": "installation/colab"
+          },
+          {
+            "type": "link",
+            "label": "Установка на свой пк",
+            "href": "/en/docs/installation/local",
+            "docId": "installation/local"
+          }
+        ],
+        "href": "/en/docs/installation/index"
+      },
+      {
+        "type": "category",
+        "label": "Использование WebUi",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Важно знать перед началом",
+            "href": "/en/docs/usage/important",
+            "docId": "usage/important"
+          },
+          {
+            "type": "link",
+            "label": "txt2img",
+            "href": "/en/docs/usage/txt2img",
+            "docId": "usage/txt2img"
+          },
+          {
+            "type": "link",
+            "label": "img2img",
+            "href": "/en/docs/usage/img2img",
+            "docId": "usage/img2img"
+          },
+          {
+            "type": "link",
+            "label": "Extras",
+            "href": "/en/docs/usage/extras",
+            "docId": "usage/extras"
+          },
+          {
+            "type": "link",
+            "label": "Расширения",
+            "href": "/en/docs/usage/extensions",
+            "docId": "usage/extensions"
+          }
+        ],
+        "href": "/en/docs/usage/index"
+      },
+      {
+        "type": "category",
+        "label": "Дополнения",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Embeddings",
+            "href": "/en/docs/additional/embeddings",
+            "docId": "additional/embeddings"
+          },
+          {
+            "type": "link",
+            "label": "Hypernetworks",
+            "href": "/en/docs/additional/hypernetworks",
+            "docId": "additional/hypernetworks"
+          },
+          {
+            "type": "link",
+            "label": "LoRA",
+            "href": "/en/docs/additional/lora",
+            "docId": "additional/lora"
+          }
+        ],
+        "href": "/en/docs/additional/index"
+      }
+    ]
+  },
+  "docs": {
+    "additional/embeddings": {
+      "id": "additional/embeddings",
+      "title": "Embeddings",
+      "description": "Эмбеддинги",
+      "sidebar": "tutorialSidebar"
+    },
+    "additional/hypernetworks": {
+      "id": "additional/hypernetworks",
+      "title": "Hypernetworks",
+      "description": "Гипернетворки",
+      "sidebar": "tutorialSidebar"
+    },
+    "additional/lora": {
+      "id": "additional/lora",
+      "title": "LoRA",
+      "description": "Лора",
+      "sidebar": "tutorialSidebar"
+    },
+    "installation/colab": {
+      "id": "installation/colab",
+      "title": "Запуск Colab",
+      "description": "Бесплатный запуск webui на серверах Google Colab.",
+      "sidebar": "tutorialSidebar"
+    },
+    "installation/local": {
+      "id": "installation/local",
+      "title": "Установка на свой пк",
+      "description": "Бесплатный запуск webui на серверах Google Colab.",
+      "sidebar": "tutorialSidebar"
+    },
+    "usage/extensions": {
+      "id": "usage/extensions",
+      "title": "Расширения",
+      "description": "Дополнения для WebUi",
+      "sidebar": "tutorialSidebar"
+    },
+    "usage/extras": {
+      "id": "usage/extras",
+      "title": "Extras",
+      "description": "Апскейл картинок",
+      "sidebar": "tutorialSidebar"
+    },
+    "usage/img2img": {
+      "id": "usage/img2img",
+      "title": "img2img",
+      "description": "Генерация картинок на основе других картинок",
+      "sidebar": "tutorialSidebar"
+    },
+    "usage/important": {
+      "id": "usage/important",
+      "title": "Важно знать перед началом",
+      "description": "Важно. Некоторые рекомендуемые настройки и т.п.",
+      "sidebar": "tutorialSidebar"
+    },
+    "usage/txt2img": {
+      "id": "usage/txt2img",
+      "title": "txt2img",
+      "description": "Генерация картинок по текстовому описанию",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

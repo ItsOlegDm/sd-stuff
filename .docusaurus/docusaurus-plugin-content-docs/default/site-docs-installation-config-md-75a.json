@@ -1,0 +1,25 @@
+{
+  "unversionedId": "installation/config",
+  "id": "installation/config",
+  "title": "Рекомендуемые настройки",
+  "description": "Насстройки которые я использую при генерации. Не обязательно.",
+  "source": "@site/docs/installation/config.md",
+  "sourceDirName": "installation",
+  "slug": "/installation/config",
+  "permalink": "/docs/installation/config",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Рекомендуемые настройки",
+    "description": "Насстройки которые я использую при генерации. Не обязательно.",
+    "hide_table_of_contents": false,
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Установка на свой пк",
+    "permalink": "/docs/installation/local"
+  }
+}

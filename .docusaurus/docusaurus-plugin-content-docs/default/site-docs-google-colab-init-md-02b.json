@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Google Colab/init",
+  "id": "Google Colab/init",
+  "title": "Инициализация Colab",
+  "description": "Запуск нужного colab`a.",
+  "source": "@site/docs/Google Colab/init.md",
+  "sourceDirName": "Google Colab",
+  "slug": "/Google Colab/init",
+  "permalink": "/docs/Google Colab/init",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Инициализация Colab",
+    "description": "Запуск нужного colab`a.",
+    "hide_table_of_contents": false
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Google Colab",
+    "permalink": "/docs/category/google-colab"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}

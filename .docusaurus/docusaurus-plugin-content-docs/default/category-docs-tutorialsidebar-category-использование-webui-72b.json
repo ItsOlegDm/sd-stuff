@@ -1,0 +1,16 @@
+{
+  "title": "Использование WebUi",
+  "description": "Использование разных функций WebUi",
+  "slug": "usage/index",
+  "permalink": "/docs/usage/index",
+  "navigation": {
+    "previous": {
+      "title": "Установка на свой пк",
+      "permalink": "/docs/installation/local"
+    },
+    "next": {
+      "title": "Важно знать перед началом",
+      "permalink": "/docs/usage/important"
+    }
+  }
+}

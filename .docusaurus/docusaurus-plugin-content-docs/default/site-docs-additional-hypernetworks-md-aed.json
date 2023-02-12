@@ -1,0 +1,29 @@
+{
+  "unversionedId": "additional/hypernetworks",
+  "id": "additional/hypernetworks",
+  "title": "Hypernetworks",
+  "description": "Гипернетворки",
+  "source": "@site/docs/additional/hypernetworks.md",
+  "sourceDirName": "additional",
+  "slug": "/additional/hypernetworks",
+  "permalink": "/en/docs/additional/hypernetworks",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Hypernetworks",
+    "description": "Гипернетворки",
+    "hide_table_of_contents": false,
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Embeddings",
+    "permalink": "/en/docs/additional/embeddings"
+  },
+  "next": {
+    "title": "LoRA",
+    "permalink": "/en/docs/additional/lora"
+  }
+}

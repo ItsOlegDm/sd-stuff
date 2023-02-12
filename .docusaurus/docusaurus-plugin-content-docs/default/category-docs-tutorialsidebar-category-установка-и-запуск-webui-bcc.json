@@ -1,0 +1,12 @@
+{
+  "title": "Установка и запуск WebUi",
+  "description": "Запуск и настройка WebUi на Google Colab или своем ПК",
+  "slug": "installation/sd-webui",
+  "permalink": "/docs/installation/sd-webui",
+  "navigation": {
+    "next": {
+      "title": "Запуск Colab",
+      "permalink": "/docs/installation/colab"
+    }
+  }
+}

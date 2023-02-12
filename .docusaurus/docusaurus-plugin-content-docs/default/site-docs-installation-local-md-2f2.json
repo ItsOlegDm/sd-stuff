@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Installation/local",
+  "id": "Installation/local",
+  "title": "Установка на свой пк",
+  "description": "Бесплатный запуск webui на серверах Google Colab.",
+  "source": "@site/docs/Installation/local.md",
+  "sourceDirName": "Installation",
+  "slug": "/Installation/local",
+  "permalink": "/docs/Installation/local",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Установка на свой пк",
+    "description": "Бесплатный запуск webui на серверах Google Colab.",
+    "hide_table_of_contents": false,
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Запуск Colab",
+    "permalink": "/docs/Installation/colab"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}
