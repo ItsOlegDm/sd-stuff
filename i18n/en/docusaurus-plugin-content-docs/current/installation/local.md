@@ -52,7 +52,7 @@ To start webui next time, you will still need to run `webui-user.bat`
 
 ![gif](https://i.imgur.com/UgS5j2q.gif)
 
-## Command-line argumentsи {#commandline_args}
+## Command-line arguments {#commandline_args}
 Arguments that are used when starting WebUi and change some settings/functions.
 There are two ways to use an argument:
 1. Insert them after `COMMANDLINE_ARGS` in `webui-user.bat`
@@ -67,7 +67,7 @@ There are two ways to use an argument:
 The arguments I use. You don't have to use them, but they're definitely not superfluous.
 
 * `--xformers` - speeds up generation
-* `--no-half-vae` - fixes black squares instead of pictures 
+* `--no-half-vae` - fixes black squares instead of pictures when you`re using NovelAi, Anything etc. VAE.
 * `--listen` - allows you to open WebUi from any other device in the same local network.
 
     <details>

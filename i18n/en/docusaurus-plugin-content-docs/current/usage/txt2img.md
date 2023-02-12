@@ -146,7 +146,7 @@ The amount of steps when img2img in hires fix, when it is `0` it equals to the a
 
 Determines how little respect the algorithm should have for image's content. At `0`, nothing will change, and at `1` you'll get an unrelated image. With values below `1.0`, processing will take less steps than the Sampling Steps slider specifies.
 
-I would recommend using a denoise between `0.5 and 0.6'.
+I would recommend using a denoise between `0.5 and 0.6`.
 
 
 
