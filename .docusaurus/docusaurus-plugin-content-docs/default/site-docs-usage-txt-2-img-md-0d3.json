@@ -6,7 +6,7 @@
   "source": "@site/docs/usage/txt2img.md",
   "sourceDirName": "usage",
   "slug": "/usage/txt2img",
-  "permalink": "/en/docs/usage/txt2img",
+  "permalink": "/docs/usage/txt2img",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Важно знать перед началом",
-    "permalink": "/en/docs/usage/important"
+    "permalink": "/docs/usage/important"
   },
   "next": {
     "title": "img2img",
-    "permalink": "/en/docs/usage/img2img"
+    "permalink": "/docs/usage/img2img"
   }
 }

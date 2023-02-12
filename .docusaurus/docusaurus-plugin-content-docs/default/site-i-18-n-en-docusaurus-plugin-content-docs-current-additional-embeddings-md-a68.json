@@ -1,0 +1,28 @@
+{
+  "unversionedId": "additional/embeddings",
+  "id": "additional/embeddings",
+  "title": "Embeddings",
+  "description": "Embedding is the use of text inversion, which is the process of creating a custom Stable Diffusion model. By providing your own images and text descriptions to them, the algorithm learns to create new images that match the text description and style of the images.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/additional/embeddings.md",
+  "sourceDirName": "additional",
+  "slug": "/additional/embeddings",
+  "permalink": "/en/docs/additional/embeddings",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Embeddings",
+    "hide_table_of_contents": false,
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Дополнения",
+    "permalink": "/en/docs/additional/index"
+  },
+  "next": {
+    "title": "Hypernetworks",
+    "permalink": "/en/docs/additional/hypernetworks"
+  }
+}

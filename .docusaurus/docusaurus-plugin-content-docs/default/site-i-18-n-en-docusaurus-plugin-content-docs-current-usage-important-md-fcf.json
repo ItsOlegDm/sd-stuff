@@ -1,0 +1,29 @@
+{
+  "unversionedId": "usage/important",
+  "id": "usage/important",
+  "title": "Good to know before starting.",
+  "description": "Some recommended settings, etc.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/usage/important.md",
+  "sourceDirName": "usage",
+  "slug": "/usage/important",
+  "permalink": "/en/docs/usage/important",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Good to know before starting.",
+    "description": "Some recommended settings, etc.",
+    "hide_table_of_contents": false,
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Использование WebUi",
+    "permalink": "/en/docs/usage/index"
+  },
+  "next": {
+    "title": "txt2img",
+    "permalink": "/en/docs/usage/txt2img"
+  }
+}

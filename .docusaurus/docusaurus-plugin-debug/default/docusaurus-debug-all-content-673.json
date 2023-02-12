@@ -9,298 +9,295 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
+          "path": "/en/docs",
+          "tagsPath": "/en/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "D:\\my-website\\sidebars.js",
-          "contentPath": "D:\\my-website\\docs",
-          "contentPathLocalized": "D:\\my-website\\i18n\\ru\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "D:\\sd-stuff\\sidebars.js",
+          "contentPath": "D:\\sd-stuff\\docs",
+          "contentPathLocalized": "D:\\sd-stuff\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "additional/embeddings",
               "id": "additional/embeddings",
               "title": "Embeddings",
-              "description": "Эмбеддинги",
-              "source": "@site/docs/additional/embeddings.md",
+              "description": "Embedding is the use of text inversion, which is the process of creating a custom Stable Diffusion model. By providing your own images and text descriptions to them, the algorithm learns to create new images that match the text description and style of the images.",
+              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/additional/embeddings.md",
               "sourceDirName": "additional",
               "slug": "/additional/embeddings",
-              "permalink": "/docs/additional/embeddings",
+              "permalink": "/en/docs/additional/embeddings",
               "draft": false,
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
                 "title": "Embeddings",
-                "description": "Эмбеддинги",
                 "hide_table_of_contents": false,
                 "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Дополнения",
-                "permalink": "/docs/additional/index"
+                "permalink": "/en/docs/additional/index"
               },
               "next": {
                 "title": "Hypernetworks",
-                "permalink": "/docs/additional/hypernetworks"
+                "permalink": "/en/docs/additional/hypernetworks"
               }
             },
             {
               "unversionedId": "additional/hypernetworks",
               "id": "additional/hypernetworks",
               "title": "Hypernetworks",
-              "description": "Гипернетворки",
-              "source": "@site/docs/additional/hypernetworks.md",
+              "description": "A hypernetwork is simply a small network that generates the weights of a much larger network, such as the weights of a deep ResNet, effectively parameterizing the weights of each layer of the ResNet network.",
+              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/additional/hypernetworks.md",
               "sourceDirName": "additional",
               "slug": "/additional/hypernetworks",
-              "permalink": "/docs/additional/hypernetworks",
+              "permalink": "/en/docs/additional/hypernetworks",
               "draft": false,
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
                 "title": "Hypernetworks",
-                "description": "Гипернетворки",
                 "hide_table_of_contents": false,
                 "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Embeddings",
-                "permalink": "/docs/additional/embeddings"
+                "permalink": "/en/docs/additional/embeddings"
               },
               "next": {
                 "title": "LoRA",
-                "permalink": "/docs/additional/lora"
+                "permalink": "/en/docs/additional/lora"
               }
             },
             {
               "unversionedId": "additional/lora",
               "id": "additional/lora",
               "title": "LoRA",
-              "description": "Лора",
-              "source": "@site/docs/additional/lora.md",
+              "description": "LowRank Adaptation of Large Language Models",
+              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/additional/lora.md",
               "sourceDirName": "additional",
               "slug": "/additional/lora",
-              "permalink": "/docs/additional/lora",
+              "permalink": "/en/docs/additional/lora",
               "draft": false,
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
                 "title": "LoRA",
-                "description": "Лора",
                 "hide_table_of_contents": false,
                 "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Hypernetworks",
-                "permalink": "/docs/additional/hypernetworks"
+                "permalink": "/en/docs/additional/hypernetworks"
               }
             },
             {
               "unversionedId": "installation/colab",
               "id": "installation/colab",
-              "title": "Запуск Colab",
-              "description": "Бесплатный запуск webui на серверах Google Colab.",
-              "source": "@site/docs/installation/colab.md",
+              "title": "Running Colab",
+              "description": "Using WebUi on Google Colab servers for free.",
+              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/installation/colab.md",
               "sourceDirName": "installation",
               "slug": "/installation/colab",
-              "permalink": "/docs/installation/colab",
+              "permalink": "/en/docs/installation/colab",
               "draft": false,
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
-                "title": "Запуск Colab",
-                "description": "Бесплатный запуск webui на серверах Google Colab.",
+                "title": "Running Colab",
+                "description": "Using WebUi on Google Colab servers for free.",
                 "hide_table_of_contents": false,
                 "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Установка и настройка WebUi",
-                "permalink": "/docs/installation/index"
+                "permalink": "/en/docs/installation/index"
               },
               "next": {
-                "title": "Установка на свой пк",
-                "permalink": "/docs/installation/local"
+                "title": "Installing WebUi on your PC",
+                "permalink": "/en/docs/installation/local"
               }
             },
             {
               "unversionedId": "installation/local",
               "id": "installation/local",
-              "title": "Установка на свой пк",
-              "description": "Бесплатный запуск webui на серверах Google Colab.",
-              "source": "@site/docs/installation/local.md",
+              "title": "Installing WebUi on your PC",
+              "description": "Installing and configuring WebUi on your pc.",
+              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/installation/local.md",
               "sourceDirName": "installation",
               "slug": "/installation/local",
-              "permalink": "/docs/installation/local",
+              "permalink": "/en/docs/installation/local",
               "draft": false,
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
-                "title": "Установка на свой пк",
-                "description": "Бесплатный запуск webui на серверах Google Colab.",
+                "title": "Installing WebUi on your PC",
+                "description": "Installing and configuring WebUi on your pc.",
                 "hide_table_of_contents": false,
                 "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Запуск Colab",
-                "permalink": "/docs/installation/colab"
+                "title": "Running Colab",
+                "permalink": "/en/docs/installation/colab"
               },
               "next": {
                 "title": "Использование WebUi",
-                "permalink": "/docs/usage/index"
+                "permalink": "/en/docs/usage/index"
               }
             },
             {
               "unversionedId": "usage/extensions",
               "id": "usage/extensions",
-              "title": "Расширения",
-              "description": "Дополнения для WebUi",
-              "source": "@site/docs/usage/extensions.md",
+              "title": "Extensions",
+              "description": "Add-ons for WebUi",
+              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/usage/extensions.md",
               "sourceDirName": "usage",
               "slug": "/usage/extensions",
-              "permalink": "/docs/usage/extensions",
+              "permalink": "/en/docs/usage/extensions",
               "draft": false,
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
               "frontMatter": {
-                "title": "Расширения",
-                "description": "Дополнения для WebUi",
+                "title": "Extensions",
+                "description": "Add-ons for WebUi",
                 "hide_table_of_contents": false,
                 "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Extras",
-                "permalink": "/docs/usage/extras"
+                "permalink": "/en/docs/usage/extras"
               },
               "next": {
                 "title": "Дополнения",
-                "permalink": "/docs/additional/index"
+                "permalink": "/en/docs/additional/index"
               }
             },
             {
               "unversionedId": "usage/extras",
               "id": "usage/extras",
               "title": "Extras",
-              "description": "Апскейл картинок",
-              "source": "@site/docs/usage/extras.md",
+              "description": "Upscale pictures",
+              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/usage/extras.md",
               "sourceDirName": "usage",
               "slug": "/usage/extras",
-              "permalink": "/docs/usage/extras",
+              "permalink": "/en/docs/usage/extras",
               "draft": false,
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
               "frontMatter": {
                 "title": "Extras",
-                "description": "Апскейл картинок",
+                "description": "Upscale pictures",
                 "hide_table_of_contents": false,
                 "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "img2img",
-                "permalink": "/docs/usage/img2img"
+                "permalink": "/en/docs/usage/img2img"
               },
               "next": {
-                "title": "Расширения",
-                "permalink": "/docs/usage/extensions"
+                "title": "Extensions",
+                "permalink": "/en/docs/usage/extensions"
               }
             },
             {
               "unversionedId": "usage/img2img",
               "id": "usage/img2img",
               "title": "img2img",
-              "description": "Генерация картинок на основе других картинок",
-              "source": "@site/docs/usage/img2img.md",
+              "description": "Generating pictures based on other pictures",
+              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/usage/img2img.md",
               "sourceDirName": "usage",
               "slug": "/usage/img2img",
-              "permalink": "/docs/usage/img2img",
+              "permalink": "/en/docs/usage/img2img",
               "draft": false,
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
                 "title": "img2img",
-                "description": "Генерация картинок на основе других картинок",
+                "description": "Generating pictures based on other pictures",
                 "hide_table_of_contents": false,
                 "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "txt2img",
-                "permalink": "/docs/usage/txt2img"
+                "permalink": "/en/docs/usage/txt2img"
               },
               "next": {
                 "title": "Extras",
-                "permalink": "/docs/usage/extras"
+                "permalink": "/en/docs/usage/extras"
               }
             },
             {
               "unversionedId": "usage/important",
               "id": "usage/important",
-              "title": "Важно знать перед началом",
-              "description": "Важно. Некоторые рекомендуемые настройки и т.п.",
-              "source": "@site/docs/usage/important.md",
+              "title": "Good to know before starting.",
+              "description": "Some recommended settings, etc.",
+              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/usage/important.md",
               "sourceDirName": "usage",
               "slug": "/usage/important",
-              "permalink": "/docs/usage/important",
+              "permalink": "/en/docs/usage/important",
               "draft": false,
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
-                "title": "Важно знать перед началом",
-                "description": "Важно. Некоторые рекомендуемые настройки и т.п.",
+                "title": "Good to know before starting.",
+                "description": "Some recommended settings, etc.",
                 "hide_table_of_contents": false,
                 "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Использование WebUi",
-                "permalink": "/docs/usage/index"
+                "permalink": "/en/docs/usage/index"
               },
               "next": {
                 "title": "txt2img",
-                "permalink": "/docs/usage/txt2img"
+                "permalink": "/en/docs/usage/txt2img"
               }
             },
             {
               "unversionedId": "usage/txt2img",
               "id": "usage/txt2img",
               "title": "txt2img",
-              "description": "Генерация картинок по текстовому описанию",
-              "source": "@site/docs/usage/txt2img.md",
+              "description": "Generating pictures from text description",
+              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/usage/txt2img.md",
               "sourceDirName": "usage",
               "slug": "/usage/txt2img",
-              "permalink": "/docs/usage/txt2img",
+              "permalink": "/en/docs/usage/txt2img",
               "draft": false,
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
                 "title": "txt2img",
-                "description": "Генерация картинок по текстовому описанию",
+                "description": "Generating pictures from text description",
                 "hide_table_of_contents": false,
                 "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Важно знать перед началом",
-                "permalink": "/docs/usage/important"
+                "title": "Good to know before starting.",
+                "permalink": "/en/docs/usage/important"
               },
               "next": {
                 "title": "img2img",
-                "permalink": "/docs/usage/img2img"
+                "permalink": "/en/docs/usage/img2img"
               }
             }
           ],
@@ -309,7 +306,7 @@
             "tutorialSidebar": [
               {
                 "type": "category",
-                "label": "Установка и настройка WebUi",
+                "label": "Installing and configuring WebUi",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -325,13 +322,13 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "installation/index",
-                  "description": "Запуск и настройка WebUi на Google Colab или своем ПК",
-                  "permalink": "/docs/installation/index"
+                  "description": "Install and configure WebUi on Google Colab or your PC",
+                  "permalink": "/en/docs/installation/index"
                 }
               },
               {
                 "type": "category",
-                "label": "Использование WebUi",
+                "label": "Using WebUi",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -359,13 +356,13 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "usage/index",
-                  "description": "Использование разных функций WebUi",
-                  "permalink": "/docs/usage/index"
+                  "description": "How to use this shit?",
+                  "permalink": "/en/docs/usage/index"
                 }
               },
               {
                 "type": "category",
-                "label": "Дополнения",
+                "label": "Additional networks",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -386,7 +383,7 @@
                   "type": "generated-index",
                   "slug": "additional/index",
                   "description": "Embeddings, LoRA, Hypernetworks",
-                  "permalink": "/docs/additional/index"
+                  "permalink": "/en/docs/additional/index"
                 }
               }
             ]
@@ -399,12 +396,12 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/en/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/en/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",

@@ -12,6 +12,13 @@ sidebar_position: 2
 
 ![gif](https://i.imgur.com/YjrFLMo.gif)
 
+:::note
+
+Если вы используете колаб, путь будет выглядеть так: `ваш гугл диск\sd\stable-diffusion-webui\models\hypernetworks`
+
+:::
+
+
 Потом подключить его в настройках по пути `Extra Networks > Add hypernetwork to prompt`
 
 ![gif](https://i.imgur.com/6P2eC0U.png)

@@ -2,28 +2,28 @@
   "unversionedId": "installation/local",
   "id": "installation/local",
   "title": "Установка на свой пк",
-  "description": "Бесплатный запуск webui на серверах Google Colab.",
+  "description": "Установка и настройка WebUi на вашем компьютере.",
   "source": "@site/docs/installation/local.md",
   "sourceDirName": "installation",
   "slug": "/installation/local",
-  "permalink": "/en/docs/installation/local",
+  "permalink": "/docs/installation/local",
   "draft": false,
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
     "title": "Установка на свой пк",
-    "description": "Бесплатный запуск webui на серверах Google Colab.",
+    "description": "Установка и настройка WebUi на вашем компьютере.",
     "hide_table_of_contents": false,
     "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Запуск Colab",
-    "permalink": "/en/docs/installation/colab"
+    "permalink": "/docs/installation/colab"
   },
   "next": {
     "title": "Использование WebUi",
-    "permalink": "/en/docs/usage/index"
+    "permalink": "/docs/usage/index"
   }
 }

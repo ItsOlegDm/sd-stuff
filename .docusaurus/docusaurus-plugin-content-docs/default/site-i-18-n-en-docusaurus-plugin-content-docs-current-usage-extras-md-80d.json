@@ -1,0 +1,29 @@
+{
+  "unversionedId": "usage/extras",
+  "id": "usage/extras",
+  "title": "Extras",
+  "description": "Upscale pictures",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/usage/extras.md",
+  "sourceDirName": "usage",
+  "slug": "/usage/extras",
+  "permalink": "/en/docs/usage/extras",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Extras",
+    "description": "Upscale pictures",
+    "hide_table_of_contents": false,
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "img2img",
+    "permalink": "/en/docs/usage/img2img"
+  },
+  "next": {
+    "title": "Extensions",
+    "permalink": "/en/docs/usage/extensions"
+  }
+}

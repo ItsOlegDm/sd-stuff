@@ -10,14 +10,14 @@
     "en": {
       "label": "English",
       "direction": "ltr",
-      "htmlLang": "en",
+      "htmlLang": "en-GB",
       "calendar": "gregory",
       "path": "en"
     },
     "ru": {
       "label": "Русский",
       "direction": "ltr",
-      "htmlLang": "ru",
+      "htmlLang": "ru-RU",
       "calendar": "gregory",
       "path": "ru"
     }

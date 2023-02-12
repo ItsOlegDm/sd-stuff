@@ -1,0 +1,29 @@
+{
+  "unversionedId": "installation/colab",
+  "id": "installation/colab",
+  "title": "Running Colab",
+  "description": "Using WebUi on Google Colab servers for free.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/installation/colab.md",
+  "sourceDirName": "installation",
+  "slug": "/installation/colab",
+  "permalink": "/en/docs/installation/colab",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Running Colab",
+    "description": "Using WebUi on Google Colab servers for free.",
+    "hide_table_of_contents": false,
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Установка и настройка WebUi",
+    "permalink": "/en/docs/installation/index"
+  },
+  "next": {
+    "title": "Installing WebUi on your PC",
+    "permalink": "/en/docs/installation/local"
+  }
+}

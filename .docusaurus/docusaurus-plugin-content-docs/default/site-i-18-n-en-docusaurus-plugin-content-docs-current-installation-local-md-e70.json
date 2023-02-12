@@ -1,0 +1,29 @@
+{
+  "unversionedId": "installation/local",
+  "id": "installation/local",
+  "title": "Installing WebUi on your PC",
+  "description": "Installing and configuring WebUi on your pc.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/installation/local.md",
+  "sourceDirName": "installation",
+  "slug": "/installation/local",
+  "permalink": "/en/docs/installation/local",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Installing WebUi on your PC",
+    "description": "Installing and configuring WebUi on your pc.",
+    "hide_table_of_contents": false,
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Running Colab",
+    "permalink": "/en/docs/installation/colab"
+  },
+  "next": {
+    "title": "Использование WebUi",
+    "permalink": "/en/docs/usage/index"
+  }
+}

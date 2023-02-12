@@ -4,93 +4,93 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/en/markdown-page',
-    component: ComponentCreator('/en/markdown-page', '29b'),
+    component: ComponentCreator('/en/markdown-page', 'e8c'),
     exact: true
   },
   {
     path: '/en/search',
-    component: ComponentCreator('/en/search', '99a'),
+    component: ComponentCreator('/en/search', 'fd8'),
     exact: true
   },
   {
     path: '/en/docs',
-    component: ComponentCreator('/en/docs', 'ce3'),
+    component: ComponentCreator('/en/docs', 'e50'),
     routes: [
       {
         path: '/en/docs/additional/embeddings',
-        component: ComponentCreator('/en/docs/additional/embeddings', 'e33'),
+        component: ComponentCreator('/en/docs/additional/embeddings', 'b48'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/en/docs/additional/hypernetworks',
-        component: ComponentCreator('/en/docs/additional/hypernetworks', 'dac'),
+        component: ComponentCreator('/en/docs/additional/hypernetworks', '1ee'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/en/docs/additional/index',
-        component: ComponentCreator('/en/docs/additional/index', 'e6a'),
+        component: ComponentCreator('/en/docs/additional/index', '79b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/en/docs/additional/lora',
-        component: ComponentCreator('/en/docs/additional/lora', 'c22'),
+        component: ComponentCreator('/en/docs/additional/lora', '1a3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/en/docs/installation/colab',
-        component: ComponentCreator('/en/docs/installation/colab', '945'),
+        component: ComponentCreator('/en/docs/installation/colab', '325'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/en/docs/installation/index',
-        component: ComponentCreator('/en/docs/installation/index', '218'),
+        component: ComponentCreator('/en/docs/installation/index', 'fe7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/en/docs/installation/local',
-        component: ComponentCreator('/en/docs/installation/local', '80a'),
+        component: ComponentCreator('/en/docs/installation/local', 'c43'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/en/docs/usage/extensions',
-        component: ComponentCreator('/en/docs/usage/extensions', '385'),
+        component: ComponentCreator('/en/docs/usage/extensions', '3ab'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/en/docs/usage/extras',
-        component: ComponentCreator('/en/docs/usage/extras', 'c21'),
+        component: ComponentCreator('/en/docs/usage/extras', '92e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/en/docs/usage/img2img',
-        component: ComponentCreator('/en/docs/usage/img2img', 'add'),
+        component: ComponentCreator('/en/docs/usage/img2img', '3e2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/en/docs/usage/important',
-        component: ComponentCreator('/en/docs/usage/important', 'a9b'),
+        component: ComponentCreator('/en/docs/usage/important', '7a2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/en/docs/usage/index',
-        component: ComponentCreator('/en/docs/usage/index', '6cd'),
+        component: ComponentCreator('/en/docs/usage/index', '597'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/en/docs/usage/txt2img',
-        component: ComponentCreator('/en/docs/usage/txt2img', '14c'),
+        component: ComponentCreator('/en/docs/usage/txt2img', 'dd3'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
@@ -98,7 +98,7 @@ export default [
   },
   {
     path: '/en/',
-    component: ComponentCreator('/en/', '4e6'),
+    component: ComponentCreator('/en/', '2e5'),
     exact: true
   },
   {

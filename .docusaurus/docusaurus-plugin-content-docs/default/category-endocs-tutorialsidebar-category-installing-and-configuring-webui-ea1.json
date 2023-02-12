@@ -1,0 +1,12 @@
+{
+  "title": "Installing and configuring WebUi",
+  "description": "Install and configure WebUi on Google Colab or your PC",
+  "slug": "installation/index",
+  "permalink": "/en/docs/installation/index",
+  "navigation": {
+    "next": {
+      "title": "Running Colab",
+      "permalink": "/en/docs/installation/colab"
+    }
+  }
+}

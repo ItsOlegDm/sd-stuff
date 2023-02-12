@@ -1,0 +1,11 @@
+{
+  "title": "installation",
+  "slug": "installation/index",
+  "permalink": "/en/docs/installation/index",
+  "navigation": {
+    "next": {
+      "title": "Running Colab",
+      "permalink": "/en/docs/installation/colab"
+    }
+  }
+}

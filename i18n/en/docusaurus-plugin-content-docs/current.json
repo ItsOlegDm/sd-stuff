@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Установка и настройка WebUi": {
+    "message": "Installing and configuring WebUi",
+    "description": "Installing and configuring WebUi"
+  },
+  "sidebar.tutorialSidebar.category.Установка и настройка WebUi.link.generated-index.description": {
+    "message": "Install and configure WebUi on Google Colab or your PC",
+    "description": "Install and configure WebUi on Google Colab or your PC"
+  },
+  "sidebar.tutorialSidebar.category.Использование WebUi": {
+    "message": "Using WebUi",
+    "description": "The label for category Использование WebUi in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Использование WebUi.link.generated-index.description": {
+    "message":  "How to use this shit?",
+    "description": "The generated-index page description for category Использование WebUi in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Дополнения": {
+    "message": "Additional networks",
+    "description": "The label for category Дополнения in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Дополнения.link.generated-index.description": {
+    "message": "Embeddings, LoRA, Hypernetworks",
+    "description": "The generated-index page description for category Дополнения in sidebar tutorialSidebar"
+  }
+}

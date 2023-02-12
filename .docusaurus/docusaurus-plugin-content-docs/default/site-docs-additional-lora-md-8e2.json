@@ -6,7 +6,7 @@
   "source": "@site/docs/additional/lora.md",
   "sourceDirName": "additional",
   "slug": "/additional/lora",
-  "permalink": "/en/docs/additional/lora",
+  "permalink": "/docs/additional/lora",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,6 +20,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Hypernetworks",
-    "permalink": "/en/docs/additional/hypernetworks"
+    "permalink": "/docs/additional/hypernetworks"
   }
 }

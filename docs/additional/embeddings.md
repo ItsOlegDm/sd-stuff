@@ -12,6 +12,12 @@ sidebar_position: 1
 
 ![gif](https://i.imgur.com/kMDTVrA.gif)
 
-После чего просто упомянуть название файла с эмбеддингами в промпте.
+:::note
+
+Если вы используете колаб, путь будет выглядеть так: `ваш гугл диск\sd\stable-diffusion-webui\embeddings`
+
+:::
+
+После чего просто упомянуть название файла с эмбеддингом в промпте.
 
 ![gif](https://i.imgur.com/xPMeCvn.gif)

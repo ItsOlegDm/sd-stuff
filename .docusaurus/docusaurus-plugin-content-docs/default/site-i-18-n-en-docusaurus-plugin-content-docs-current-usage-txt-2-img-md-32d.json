@@ -1,0 +1,29 @@
+{
+  "unversionedId": "usage/txt2img",
+  "id": "usage/txt2img",
+  "title": "txt2img",
+  "description": "Generating pictures from text description",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/usage/txt2img.md",
+  "sourceDirName": "usage",
+  "slug": "/usage/txt2img",
+  "permalink": "/en/docs/usage/txt2img",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "txt2img",
+    "description": "Generating pictures from text description",
+    "hide_table_of_contents": false,
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Good to know before starting.",
+    "permalink": "/en/docs/usage/important"
+  },
+  "next": {
+    "title": "img2img",
+    "permalink": "/en/docs/usage/img2img"
+  }
+}

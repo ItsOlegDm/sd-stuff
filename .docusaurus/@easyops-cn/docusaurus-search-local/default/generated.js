@@ -1,9 +1,9 @@
-import lunr from "D:\\my-website\\node_modules\\lunr\\lunr.js";
+import lunr from "D:\\sd-stuff\\node_modules\\lunr\\lunr.js";
 export const language = ["en"];
 export const removeDefaultStopWordFilter = false;
 export const removeDefaultStemmer = false;
 export const Mark = null;
-export const searchIndexUrl = "search-index{dir}.json?_=45cccdc3";
+export const searchIndexUrl = "search-index{dir}.json?_=5ea58ed1";
 export const searchResultLimits = 8;
 export const searchResultContextMaxLength = 50;
 export const explicitSearchResultPath = false;

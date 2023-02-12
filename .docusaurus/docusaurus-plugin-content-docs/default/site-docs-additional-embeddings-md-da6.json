@@ -6,7 +6,7 @@
   "source": "@site/docs/additional/embeddings.md",
   "sourceDirName": "additional",
   "slug": "/additional/embeddings",
-  "permalink": "/en/docs/additional/embeddings",
+  "permalink": "/docs/additional/embeddings",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Дополнения",
-    "permalink": "/en/docs/additional/index"
+    "permalink": "/docs/additional/index"
   },
   "next": {
     "title": "Hypernetworks",
-    "permalink": "/en/docs/additional/hypernetworks"
+    "permalink": "/docs/additional/hypernetworks"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "label": "Использование WebUi",
+  "position": 2,
+  
+  "link": {
+    "type": "generated-index",
+    "slug": "usage/index",
+    "description": "Использование разных функций WebUi"
+  }
+}

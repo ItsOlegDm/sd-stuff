@@ -19,12 +19,21 @@ export default {
       "en",
       "ru"
     ],
-    "path": "i18n",
-    "localeConfigs": {}
+    "localeConfigs": {
+      "en": {
+        "htmlLang": "en-GB",
+        "direction": "ltr"
+      },
+      "ru": {
+        "htmlLang": "ru-RU",
+        "direction": "ltr"
+      }
+    },
+    "path": "i18n"
   },
   "themes": [
     [
-      "D:\\my-website\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      "D:\\sd-stuff\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
       {
         "hashed": true,
         "searchBarShortcutHint": false
@@ -36,11 +45,11 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "D:\\my-website\\sidebars.js"
+          "sidebarPath": "D:\\sd-stuff\\sidebars.js"
         },
         "blog": false,
         "theme": {
-          "customCss": "D:\\my-website\\src\\css\\custom.css"
+          "customCss": "D:\\sd-stuff\\src\\css\\custom.css"
         }
       }
     ]
@@ -67,13 +76,19 @@ export default {
         },
         {
           "href": "https://discord.gg/8mYFgj5Mps",
-          "label": "Discord",
+          "label": "Discord [RU-lang]",
           "position": "right"
         },
         {
           "href": "https://t.me/neuroartists",
-          "label": "Telegram",
+          "label": "Telegram [RU-lang]",
           "position": "right"
+        },
+        {
+          "type": "localeDropdown",
+          "position": "right",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         }
       ],
       "hideOnScroll": false

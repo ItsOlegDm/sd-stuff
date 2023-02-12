@@ -6,7 +6,7 @@
   "source": "@site/docs/installation/colab.md",
   "sourceDirName": "installation",
   "slug": "/installation/colab",
-  "permalink": "/en/docs/installation/colab",
+  "permalink": "/docs/installation/colab",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Установка и настройка WebUi",
-    "permalink": "/en/docs/installation/index"
+    "permalink": "/docs/installation/index"
   },
   "next": {
     "title": "Установка на свой пк",
-    "permalink": "/en/docs/installation/local"
+    "permalink": "/docs/installation/local"
   }
 }

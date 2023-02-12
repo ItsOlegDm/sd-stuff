@@ -31,6 +31,15 @@ const config = {
   i18n: {
     defaultLocale: 'ru',
     locales: ['en', 'ru'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-GB',
+      },
+      // You can omit a locale (e.g. fr) if you don't need to override the defaults
+      ru: {
+        htmlLang: 'ru-RU',
+      },
+    },
   },
   themes: [
     // ... Your other themes.
@@ -94,6 +103,10 @@ const config = {
           {
             href: 'https://t.me/neuroartists',
             label: 'Telegram',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
             position: 'right',
           },
         ],

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "additional/hypernetworks",
+  "id": "additional/hypernetworks",
+  "title": "Hypernetworks",
+  "description": "A hypernetwork is simply a small network that generates the weights of a much larger network, such as the weights of a deep ResNet, effectively parameterizing the weights of each layer of the ResNet network.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/additional/hypernetworks.md",
+  "sourceDirName": "additional",
+  "slug": "/additional/hypernetworks",
+  "permalink": "/en/docs/additional/hypernetworks",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Hypernetworks",
+    "hide_table_of_contents": false,
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Embeddings",
+    "permalink": "/en/docs/additional/embeddings"
+  },
+  "next": {
+    "title": "LoRA",
+    "permalink": "/en/docs/additional/lora"
+  }
+}

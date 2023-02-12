@@ -6,7 +6,7 @@
   "source": "@site/docs/usage/extras.md",
   "sourceDirName": "usage",
   "slug": "/usage/extras",
-  "permalink": "/en/docs/usage/extras",
+  "permalink": "/docs/usage/extras",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "img2img",
-    "permalink": "/en/docs/usage/img2img"
+    "permalink": "/docs/usage/img2img"
   },
   "next": {
     "title": "Расширения",
-    "permalink": "/en/docs/usage/extensions"
+    "permalink": "/docs/usage/extensions"
   }
 }

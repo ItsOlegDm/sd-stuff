@@ -1,0 +1,10 @@
+{
+  "label": "Installing and configuring WebUi",
+  "position": 1,
+  
+  "link": {
+    "type": "generated-index",
+    "slug": "installation/index",
+    "description": "Install and configure WebUi on Google Colab or your PC"
+  }
+}

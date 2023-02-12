@@ -6,7 +6,7 @@
   "source": "@site/docs/additional/hypernetworks.md",
   "sourceDirName": "additional",
   "slug": "/additional/hypernetworks",
-  "permalink": "/en/docs/additional/hypernetworks",
+  "permalink": "/docs/additional/hypernetworks",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Embeddings",
-    "permalink": "/en/docs/additional/embeddings"
+    "permalink": "/docs/additional/embeddings"
   },
   "next": {
     "title": "LoRA",
-    "permalink": "/en/docs/additional/lora"
+    "permalink": "/docs/additional/lora"
   }
 }

@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "SD Stuff",
+    "description": "The title in the navbar"
+  },
+  "item.label.Tutorial": {
+    "message": "Tutorial",
+    "description": "Navbar item with label Tutorial"
+  },
+  "item.label.Discord": {
+    "message": "Discord [RU-lang]",
+    "description": "Navbar item with label Discord"
+  },
+  "item.label.Telegram": {
+    "message": "Telegram [RU-lang]",
+    "description": "Navbar item with label Telegram"
+  }
+}

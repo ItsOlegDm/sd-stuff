@@ -81,7 +81,7 @@
             "tutorialSidebar": {
               "link": {
                 "path": "/en/docs/installation/index",
-                "label": "Установка и настройка WebUi"
+                "label": "Installing and configuring WebUi"
               }
             }
           }
