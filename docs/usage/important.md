@@ -23,6 +23,11 @@ sidebar_position: 1
 
 `Вариационные автоэнкодеры`, или в переводе на понятный язык штуки, которые могут пофиксить некоторые проблемы с генерацией. Например тусклые и невзрачные цвета. Хранятся в форматах .pt, лежат в одной папке с моделями. Для автоматической загрузки вае с моделями он должен называтся `{название файла модели}.vae.pt` 
 
+
+Обычно VAE можно найти в репозитории модели на [huggingface](https://huggingface.co/), или использовать свой. Лично я юзаю [vae-ft-mse-840000-ema-pruned.vae.pt](https://mega.nz/file/CfJwHRIS#dLfc2bQb34VykZyIoxLrif7lr5U7u_Q0vIyWScqtEpw)
+
+![example of using vae](https://i.imgur.com/G4IGSyL.jpeg)
+
 Настраивается в настройках, во вкладке `Stable Diffusion` (пункт `SD VAE`)
 
 ![image](https://i.imgur.com/caziQpD.png)

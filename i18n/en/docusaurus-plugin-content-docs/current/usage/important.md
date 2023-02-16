@@ -22,6 +22,11 @@ Can have two extensions:
 
 `Variation autoencoders`, or in plain language things that can fix some problems with your generation. For example, dull and unsightly colors. Stored in .pt files, they are located in the same folder as the models. For automatic loading vae with models, it must be named `{model file name}.vae.pt`. 
 
+Usually you can find the VAE in the model repository on [huggingface](https://huggingface.co/), or use your own. I use [vae-ft-mse-840000-ema-pruned.vae.pt](https://mega.nz/file/CfJwHRIS#dLfc2bQb34VykZyIoxLrif7lr5U7u_Q0vIyWScqtEpw)
+
+![example of using vae](https://i.imgur.com/G4IGSyL.jpeg)
+
+
 You can select VAE manually in the settings, `Stable Diffusion` tab ("SD VAE" item)
 
 ![image](https://i.imgur.com/caziQpD.png)
