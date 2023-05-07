@@ -21,7 +21,7 @@ sidebar_position: 1
 
 На странице проекта снова нажимаем `CREATE`
 
-В поле `Select a runtime` выбираем `Sart from Scrath`
+В поле `Select a runtime` выбираем `Sart from Scratch`
 
 ![img](/img/installation/paperspace/89GQ0kfQwH.png)
 

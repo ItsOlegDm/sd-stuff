@@ -21,7 +21,7 @@ If you want, change the name of the project and click `CREATE`.
 
 On the project page, click `CREATE` again.
 
-In `Select a runtime` select `Sart from Scrath`
+In `Select a runtime` select `Sart from Scratch`
 
 ![img](/img/installation/paperspace/89GQ0kfQwH.png)
 
