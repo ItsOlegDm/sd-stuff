@@ -96,13 +96,8 @@ const config = {
           },
           
           {
-            href: 'https://discord.gg/8mYFgj5Mps',
-            label: 'Discord',
-            position: 'right',
-          },
-          {
-            href: 'https://t.me/neuroartists',
-            label: 'Telegram',
+            href: 'https://t.me/pnginfobot',
+            label: 'PNGinfo bot',
             position: 'right',
           },
           {

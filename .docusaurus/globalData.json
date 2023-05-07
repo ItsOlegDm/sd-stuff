@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/en/docs",
-          "mainDocId": "installation/colab",
+          "mainDocId": "installation/paperspace",
           "docs": [
             {
               "id": "additional/embeddings",
@@ -33,6 +33,11 @@
             {
               "id": "installation/local",
               "path": "/en/docs/installation/local",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "installation/paperspace",
+              "path": "/en/docs/installation/paperspace",
               "sidebar": "tutorialSidebar"
             },
             {

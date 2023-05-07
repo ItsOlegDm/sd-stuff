@@ -8,7 +8,7 @@ Allows you to use the image as an example for generation, regenerate an already 
 
 The interface is similar to txt2img, so I will only explain what is different.
 
-![image](https://i.imgur.com/3kAm18L.png)
+![image](/img/usage/img2img/3kAm18L.png)
 
 ## img2img settings {#img2img-settings}
 
@@ -33,7 +33,7 @@ It's simple:
 Very important and useful tab. Allows you to regenerate only part of the image. 
 So you can fix problems like broken arms or add missing details.
 
-![gif](https://i.imgur.com/QhwAXWx.gif)
+![gif](/img/usage/img2img/QhwAXWx.gif)
 
 Again, I'll only describe what is different.
 
@@ -53,7 +53,7 @@ Toggles what you want to inpaint: what is masked or what is **not** masked.
 
 What the SD will see on the masked area.= I suggest you look at the official example:
 
-![image](https://i.imgur.com/M7cz0kc.png)
+![image](/img/usage/img2img/M7cz0kc.png)
 
 ### Inpaint area
 

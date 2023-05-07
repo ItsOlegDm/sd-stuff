@@ -1,0 +1,29 @@
+{
+  "unversionedId": "installation/paperspace copy",
+  "id": "installation/paperspace copy",
+  "title": "Запуск Paperspace",
+  "description": "Бесплатный запуск webui на серверах Paperspace.",
+  "source": "@site/docs/installation/paperspace copy.md",
+  "sourceDirName": "installation",
+  "slug": "/installation/paperspace copy",
+  "permalink": "/docs/installation/paperspace copy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Запуск Paperspace",
+    "description": "Бесплатный запуск webui на серверах Paperspace.",
+    "hide_table_of_contents": false,
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Запуск Colab [Устарело]",
+    "permalink": "/docs/installation/colab"
+  },
+  "next": {
+    "title": "Запуск Paperspace",
+    "permalink": "/docs/installation/paperspace"
+  }
+}

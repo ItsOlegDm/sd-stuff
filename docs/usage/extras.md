@@ -7,7 +7,7 @@ sidebar_position: 4
 
 Позволяет проапскейлить картинку. 
 
-![image](https://i.imgur.com/JJFQ3Rt.png)
+![image](/img/usage/extras/JJFQ3Rt.png)
 
 ## Scale factor
 * `Scale by` - в сколько раз увеличить картинку

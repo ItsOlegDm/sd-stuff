@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Запуск Colab",
-    "permalink": "/docs/installation/colab"
+    "title": "Запуск Paperspace",
+    "permalink": "/docs/installation/paperspace"
   },
   "next": {
-    "title": "Использование WebUi",
-    "permalink": "/docs/usage/index"
+    "title": "Запуск Colab [Устарело]",
+    "permalink": "/docs/installation/colab"
   }
 }

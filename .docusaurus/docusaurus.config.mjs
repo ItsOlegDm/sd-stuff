@@ -75,13 +75,8 @@ export default {
           "label": "Tutorial"
         },
         {
-          "href": "https://discord.gg/8mYFgj5Mps",
-          "label": "Discord [RU-lang]",
-          "position": "right"
-        },
-        {
-          "href": "https://t.me/neuroartists",
-          "label": "Telegram [RU-lang]",
+          "href": "https://t.me/pnginfobot",
+          "label": "PNGinfo bot",
           "position": "right"
         },
         {

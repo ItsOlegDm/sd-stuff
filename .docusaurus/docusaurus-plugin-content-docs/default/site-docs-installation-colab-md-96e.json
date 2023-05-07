@@ -1,7 +1,7 @@
 {
   "unversionedId": "installation/colab",
   "id": "installation/colab",
-  "title": "Запуск Colab",
+  "title": "Запуск Colab [Устарело]",
   "description": "Бесплатный запуск webui на серверах Google Colab.",
   "source": "@site/docs/installation/colab.md",
   "sourceDirName": "installation",
@@ -10,20 +10,20 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "title": "Запуск Colab",
+    "title": "Запуск Colab [Устарело]",
     "description": "Бесплатный запуск webui на серверах Google Colab.",
     "hide_table_of_contents": false,
-    "sidebar_position": 1
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Установка и настройка WebUi",
-    "permalink": "/docs/installation/index"
-  },
-  "next": {
     "title": "Установка на свой пк",
     "permalink": "/docs/installation/local"
+  },
+  "next": {
+    "title": "Использование WebUi",
+    "permalink": "/docs/usage/index"
   }
 }

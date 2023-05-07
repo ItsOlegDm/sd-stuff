@@ -12,7 +12,7 @@
       "plugin": "72eede6e"
     }
   },
-  "/en/docs-e50": {
+  "/en/docs-8a5": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "9bd5ee66"
@@ -46,6 +46,10 @@
   "/en/docs/installation/local-c43": {
     "__comp": "17896441",
     "content": "e709a749"
+  },
+  "/en/docs/installation/paperspace-6c6": {
+    "__comp": "17896441",
+    "content": "355cf37b"
   },
   "/en/docs/usage/extensions-3ab": {
     "__comp": "17896441",

@@ -24,12 +24,12 @@ Can have two extensions:
 
 Usually you can find the VAE in the model repository on [huggingface](https://huggingface.co/), or use your own. I use [vae-ft-mse-840000-ema-pruned.vae.pt](https://mega.nz/file/CfJwHRIS#dLfc2bQb34VykZyIoxLrif7lr5U7u_Q0vIyWScqtEpw)
 
-![example of using vae](https://i.imgur.com/G4IGSyL.jpeg)
+![example of using vae](/img/usage/important/G4IGSyL.jpeg)
 
 
 You can select VAE manually in the settings, `Stable Diffusion` tab ("SD VAE" item)
 
-![image](https://i.imgur.com/caziQpD.png)
+![image](/img/usage/important/caziQpD.png)
 
 :::note
 
@@ -43,11 +43,11 @@ Go to `Settings > User Interface > Quicksettings list`
 
 Add `sd_vae` after the comma from `sd_model_checkpoint`, then press `Apply settings` and `Reload UI`
 
-![image](https://i.imgur.com/Qv3ITJX.png)
+![image](/img/usage/important/Qv3ITJX.png)
 
 Done.
 
-![image](https://i.imgur.com/1NfTtqB.png)
+![image](/img/usage/important/1NfTtqB.png)
 
 </div>
 </details>
@@ -67,7 +67,7 @@ Go to
 
 Find `Clip skip` set it to 2, then press `Apply settings`.
 
-![image](https://i.imgur.com/wZj8zXj.png)
+![image](/img/usage/important/wZj8zXj.png)
 
 
 ***

@@ -26,11 +26,11 @@ sidebar_position: 1
 
 Обычно VAE можно найти в репозитории модели на [huggingface](https://huggingface.co/), или использовать свой. Лично я юзаю [vae-ft-mse-840000-ema-pruned.vae.pt](https://mega.nz/file/CfJwHRIS#dLfc2bQb34VykZyIoxLrif7lr5U7u_Q0vIyWScqtEpw)
 
-![example of using vae](https://i.imgur.com/G4IGSyL.jpeg)
+![example of using vae](/img/usage/important/G4IGSyL.jpeg)
 
 Настраивается в настройках, во вкладке `Stable Diffusion` (пункт `SD VAE`)
 
-![image](https://i.imgur.com/caziQpD.png)
+![image](/img/usage/important/caziQpD.png)
 
 :::note
 
@@ -45,11 +45,11 @@ sidebar_position: 1
 
 Через запятую от `sd_model_checkpoint` добавляем `sd_vae`, после чего нажимаем `Apply settings` и `Reload UI`
 
-![image](https://i.imgur.com/Qv3ITJX.png)
+![image](/img/usage/important/Qv3ITJX.png)
 
 Готово.
 
-![image](https://i.imgur.com/1NfTtqB.png)
+![image](/img/usage/important/1NfTtqB.png)
 
 </div>
 </details>
@@ -69,4 +69,4 @@ sidebar_position: 1
 
 Находим `Clip skip` устанавливаем его на 2, после чего нажимаем  `Apply settings`.
 
-![image](https://i.imgur.com/wZj8zXj.png)
+![image](/img/usage/important/wZj8zXj.png)

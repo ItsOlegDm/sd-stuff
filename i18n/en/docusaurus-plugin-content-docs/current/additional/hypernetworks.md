@@ -9,7 +9,7 @@ Simply, it's a sub-neural network that also helps generate things the main model
 
 To use embedding, you must put it in the `stable-diffusion-webui\models\hypernetworks`
 
-![gif](https://i.imgur.com/YjrFLMo.gif)
+![gif](/img/additional/hypernetworks/YjrFLMo.gif)
 
 :::note
 
@@ -20,7 +20,7 @@ If you are using colab, the path will look like this: `your google drive\sd\stab
 
 Then select it in the settings `Extra Networks > Add hypernetwork to prompt`
 
-![gif](https://i.imgur.com/6P2eC0U.png)
+![gif](/img/additional/hypernetworks/6P2eC0U.png)
 
 :::tip
 
@@ -30,4 +30,4 @@ You can add hypernetworks in the quick settings by adding `sd_hypernetwork`
 
 Now the hypernetwork will be applied to the image.
 
-![gif](https://i.imgur.com/bp4TALK.gif)
+![gif](/img/additional/hypernetworks/bp4TALK.gif)

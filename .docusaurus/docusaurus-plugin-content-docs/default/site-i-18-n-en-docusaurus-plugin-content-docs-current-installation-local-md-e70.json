@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Running Colab",
-    "permalink": "/en/docs/installation/colab"
+    "title": "Running Paperspace",
+    "permalink": "/en/docs/installation/paperspace"
   },
   "next": {
-    "title": "Использование WebUi",
-    "permalink": "/en/docs/usage/index"
+    "title": "Running Colab [Outdated]",
+    "permalink": "/en/docs/installation/colab"
   }
 }

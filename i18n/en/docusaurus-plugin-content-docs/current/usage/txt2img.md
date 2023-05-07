@@ -6,7 +6,7 @@ sidebar_position: 2
 ---
 This is the main function that we use. So, let's take a quick run through the interface of this tab:
 
-![image](https://i.imgur.com/UzLRybm.png)
+![image](/img/usage/txt2img/UzLRybm.png)
 
 ## Prompts {#prompts}
 Prompts for most anime models usually consist of tags from [danbooru](https://danbooru.donmai.us), so you should watch the tags here when writing prompts.
@@ -17,7 +17,7 @@ Prompts for most anime models usually consist of tags from [danbooru](https://da
 
 *Stolen from [@Antlers Anon's guide](https://antlers-anon.fanbox.cc/posts/5250143)*
 
-![gif](https://i.imgur.com/rkBTn3u.gif)
+![gif](/img/usage/txt2img/rkBTn3u.gif)
 
 ### Negative prompt {#negative_prompt}
 
@@ -51,8 +51,8 @@ Visually, there may not be a noticeable difference between some of the samplers.
 <summary>Examples of each of the samplers</summary>
     <div>
 
-![image](https://i.imgur.com/dM98n2Z.jpeg)
-![image](https://i.imgur.com/L6ZVq3l.jpeg)
+![image](/img/usage/txt2img/dM98n2Z.jpeg)
+![image](/img/usage/txt2img/L6ZVq3l.jpeg)
 
 <details>
 <summary>Information about generating examples</summary>
@@ -84,14 +84,14 @@ Model: AbyssOrangeMix2_nsfw, Clip skip: 2, ENSD: 31337,
 
 The number of steps/iterations during SD will process the picture. This can affect the detail, and directly affects the speed. Some samplers may need more iterations, but usually (at least for the two I mentioned earlier) the number of steps is kept around `20-30`.
 
-![image](https://i.imgur.com/ITpi1fJ.jpeg)
+![image](/img/usage/txt2img/ITpi1fJ.jpeg)
 
 ### Width/Heigh
 
 Accordingly, the width and height of the generated image.
 I don't recommend generating in higher resolutions, because it will break the composition and you will end up with a mess of broken limbs, etc.
 
-![image](https://i.imgur.com/u4UCAjv.jpeg)
+![image](/img/usage/txt2img/u4UCAjv.jpeg)
 
 ### Batch count/Batch size
 
@@ -107,7 +107,7 @@ Usually values in the range `7-15` are used.
 
 Too high values only ruin the picture, I don't recommend using it.
 
-![image](https://i.imgur.com/IAtLwsl.jpeg)
+![image](/img/usage/txt2img/IAtLwsl.jpeg)
 
 ### Seed
 
@@ -121,7 +121,7 @@ Useless when generating anime pictures. Helps to fix faces while generating in r
 
 Generates pictures that can be repeated infinitely, for example using them as textures. (thanks to [@Antlers_Anon](https://antlers-anon.fanbox.cc/posts/5250143) for the picture)
 
-![gif](https://i.imgur.com/ezxgarP.gif)
+![gif](/img/usage/txt2img/ezxgarP.gif)
 
 ### Hires. fix
 

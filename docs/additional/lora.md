@@ -10,7 +10,7 @@ sidebar_position: 3
 
 Для использования LoRA нужно поместить еe по пути `stable-diffusion-webui\models\Lora`
 
-![gif](https://i.imgur.com/wVD8BuL.gif)
+![gif](/img/additional/lora/wVD8BuL.gif)
 
 :::note
 
@@ -21,12 +21,12 @@ sidebar_position: 3
 
 Теперь, под кнопкой генерации нажимаем на `🎴`, идем во вкладку `LoRA` и выбираем нужную нам лору. 
 
-![gif](https://i.imgur.com/whxbHJN.gif)
+![gif](/img/additional/lora/whxbHJN.gif)
 
 :::tip
 
 Влияние лоры можно изменять также, как и влияние тега
 
-![gif](https://i.imgur.com/rhwD1WH.gif)
+![gif](/img/additional/lora/rhwD1WH.gif)
 
 :::

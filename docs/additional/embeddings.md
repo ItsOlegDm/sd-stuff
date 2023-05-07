@@ -10,7 +10,7 @@ sidebar_position: 1
 
 Для использования эмбеддинга нужно поместить его по пути `stable-diffusion-webui\embeddings`
 
-![gif](https://i.imgur.com/kMDTVrA.gif)
+![gif](/img/additional/embeddings/kMDTVrA.gif)
 
 :::note
 
@@ -20,4 +20,4 @@ sidebar_position: 1
 
 После чего просто упомянуть название файла с эмбеддингом в промпте.
 
-![gif](https://i.imgur.com/xPMeCvn.gif)
+![gif](/img/additional/embeddings/xPMeCvn.gif)

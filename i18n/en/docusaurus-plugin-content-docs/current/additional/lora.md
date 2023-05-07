@@ -9,7 +9,7 @@ Does all the same things as embeddings with hypernetworks, but better, and faste
 
 To use LoRA, you must put it in the  `stable-diffusion-webui\models\Lora`
 
-![gif](https://i.imgur.com/wVD8BuL.gif)
+![gif](/img/additional/lora/wVD8BuL.gif)
 
 :::note
 
@@ -20,12 +20,12 @@ If you are using colab, the path will look like this: `your google drive\sd\stab
 
 Now, under the generation button click on `🎴`, go to the tab `LoRA` and select the LoRA you want.
 
-![gif](https://i.imgur.com/whxbHJN.gif)
+![gif](/img/additional/lora/whxbHJN.gif)
 
 :::tip
 
 The effect of LoRA can be changed in the same way as the effect of the tag.
 
-![gif](https://i.imgur.com/rhwD1WH.gif)
+![gif](/img/additional/lora/rhwD1WH.gif)
 
 :::

@@ -5,8 +5,8 @@
   "permalink": "/docs/usage/index",
   "navigation": {
     "previous": {
-      "title": "Установка на свой пк",
-      "permalink": "/docs/installation/local"
+      "title": "Запуск Colab [Устарело]",
+      "permalink": "/docs/installation/colab"
     },
     "next": {
       "title": "Важно знать перед началом",

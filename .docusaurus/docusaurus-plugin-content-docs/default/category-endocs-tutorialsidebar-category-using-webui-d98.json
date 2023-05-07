@@ -5,8 +5,8 @@
   "permalink": "/en/docs/usage/index",
   "navigation": {
     "previous": {
-      "title": "Installing WebUi on your PC",
-      "permalink": "/en/docs/installation/local"
+      "title": "Running Colab [Outdated]",
+      "permalink": "/en/docs/installation/colab"
     },
     "next": {
       "title": "Good to know before starting.",

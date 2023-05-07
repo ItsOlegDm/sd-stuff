@@ -17,15 +17,21 @@
         "items": [
           {
             "type": "link",
-            "label": "Running Colab",
-            "href": "/en/docs/installation/colab",
-            "docId": "installation/colab"
+            "label": "Running Paperspace",
+            "href": "/en/docs/installation/paperspace",
+            "docId": "installation/paperspace"
           },
           {
             "type": "link",
             "label": "Installing WebUi on your PC",
             "href": "/en/docs/installation/local",
             "docId": "installation/local"
+          },
+          {
+            "type": "link",
+            "label": "Running Colab [Outdated]",
+            "href": "/en/docs/installation/colab",
+            "docId": "installation/colab"
           }
         ],
         "href": "/en/docs/installation/index"
@@ -119,7 +125,7 @@
     },
     "installation/colab": {
       "id": "installation/colab",
-      "title": "Running Colab",
+      "title": "Running Colab [Outdated]",
       "description": "Using WebUi on Google Colab servers for free.",
       "sidebar": "tutorialSidebar"
     },
@@ -127,6 +133,12 @@
       "id": "installation/local",
       "title": "Installing WebUi on your PC",
       "description": "Installing and configuring WebUi on your pc.",
+      "sidebar": "tutorialSidebar"
+    },
+    "installation/paperspace": {
+      "id": "installation/paperspace",
+      "title": "Running Paperspace",
+      "description": "Using WebUi Paperspace servers for free.",
       "sidebar": "tutorialSidebar"
     },
     "usage/extensions": {

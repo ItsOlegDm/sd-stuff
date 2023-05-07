@@ -1,0 +1,29 @@
+{
+  "unversionedId": "installation/RunPod",
+  "id": "installation/RunPod",
+  "title": "Запуск Paperspace",
+  "description": "Бесплатный запуск webui на серверах Paperspace.",
+  "source": "@site/docs/installation/RunPod.md",
+  "sourceDirName": "installation",
+  "slug": "/installation/RunPod",
+  "permalink": "/docs/installation/RunPod",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Запуск Paperspace",
+    "description": "Бесплатный запуск webui на серверах Paperspace.",
+    "hide_table_of_contents": false,
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Установка и настройка WebUi",
+    "permalink": "/docs/installation/index"
+  },
+  "next": {
+    "title": "Запуск Paperspace",
+    "permalink": "/docs/installation/paperspace"
+  }
+}

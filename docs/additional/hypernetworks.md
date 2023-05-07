@@ -10,7 +10,7 @@ sidebar_position: 2
 
 Для использования эмбеддинга нужно поместить его по пути `stable-diffusion-webui\models\hypernetworks`
 
-![gif](https://i.imgur.com/YjrFLMo.gif)
+![gif](/img/additional/hypernetworks/YjrFLMo.gif)
 
 :::note
 
@@ -21,7 +21,7 @@ sidebar_position: 2
 
 Потом подключить его в настройках по пути `Extra Networks > Add hypernetwork to prompt`
 
-![gif](https://i.imgur.com/6P2eC0U.png)
+![gif](/img/additional/hypernetworks/6P2eC0U.png)
 
 :::tip
 
@@ -31,4 +31,4 @@ sidebar_position: 2
 
 Теперь при генерации картинки к ней будет применен гипернетворк.
 
-![gif](https://i.imgur.com/bp4TALK.gif)
+![gif](/img/additional/hypernetworks/bp4TALK.gif)

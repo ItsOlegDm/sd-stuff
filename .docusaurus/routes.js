@@ -14,7 +14,7 @@ export default [
   },
   {
     path: '/en/docs',
-    component: ComponentCreator('/en/docs', 'e50'),
+    component: ComponentCreator('/en/docs', '8a5'),
     routes: [
       {
         path: '/en/docs/additional/embeddings',
@@ -55,6 +55,12 @@ export default [
       {
         path: '/en/docs/installation/local',
         component: ComponentCreator('/en/docs/installation/local', 'c43'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/en/docs/installation/paperspace',
+        component: ComponentCreator('/en/docs/installation/paperspace', '6c6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

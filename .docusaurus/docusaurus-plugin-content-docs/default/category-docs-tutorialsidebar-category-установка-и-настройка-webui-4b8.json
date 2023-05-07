@@ -5,8 +5,8 @@
   "permalink": "/docs/installation/index",
   "navigation": {
     "next": {
-      "title": "Запуск Colab",
-      "permalink": "/docs/installation/colab"
+      "title": "Запуск Paperspace",
+      "permalink": "/docs/installation/paperspace"
     }
   }
 }

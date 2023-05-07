@@ -8,7 +8,7 @@ sidebar_position: 1
 Now to be clear: Embedding is an additional mini-model (kinda) that allows the main model to generate what it doesn't know. Embeddings are usually trained on characters or styles.
 
 To use embeddings, you must put them in the `stable-diffusion-webui\embeddings`
-![gif](https://i.imgur.com/kMDTVrA.gif)
+![gif](/img/additional/embeddings/kMDTVrA.gif)
 
 :::note
 
@@ -18,4 +18,4 @@ If you are using colab, the path will look like this: `your google drive\sd\stab
 
 After that, just mention the name of the file with the embedding in the Prompt.
 
-![gif](https://i.imgur.com/xPMeCvn.gif)
+![gif](/img/additional/embeddings/xPMeCvn.gif) 
